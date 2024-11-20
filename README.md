@@ -1,0 +1,1 @@
+# O presente projeto pretende detectar e realizar a contagem de pessoas.
